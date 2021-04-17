@@ -4,7 +4,7 @@ from googletrans import Translator
 import asyncio
 import random
 
-TOKEN = 'ODA4NjMwMjE4NTc0MjY2NDA4.YCJVkw.vvqCIqPeeXRjDvbSx_jCBqdnCSs'
+TOKEN = ''
 with open('russia', encoding='utf-8') as f:
     rus = f.readlines()
 
